@@ -30,10 +30,10 @@
     { "id": "prod-58796bea-024", "name": "Elite Item 24", "category": "books", "price": 118.18, "stock": 17, "rating": 1.8 }
   ],
   "aggregations": {
-    "clothing": { "count": 3, "inventoryValue": 109816.44 },
-    "electronics": { "count": 3, "inventoryValue": 37823.08 },
-    "sports": { "count": 4, "inventoryValue": 152049.52 },
-    "home": { "count": 7, "inventoryValue": 128407.63 },
-    "books": { "count": 7, "inventoryValue": 130260.97999999998 }
-  }
+  "clothing": { "count": 3, "inventoryValue": 109816.44 },
+  "electronics": { "count": 3, "inventoryValue": 37823.08 },
+  "sports": { "count": 4, "inventoryValue": 152049.52 },
+  "home": { "count": 7, "inventoryValue": 114764.65 },
+  "books": { "count": 7, "inventoryValue": 130260.97999999998 }
+}
 }
