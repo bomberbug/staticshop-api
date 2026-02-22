@@ -4,35 +4,35 @@
     "version": "58796bea"
   },
   "products": [
-    { "id": "prod-58796bea-001", "name": "Classic Cotton Shirt", "category": "clothing", "price": 1500.00, "stock": 20, "rating": 4.4 },
-    { "id": "prod-58796bea-002", "name": "Denim Jeans", "category": "clothing", "price": 2000.00, "stock": 15, "rating": 4.5 },
-    { "id": "prod-58796bea-003", "name": "Leather Jacket", "category": "clothing", "price": 3000.00, "stock": 8, "rating": 4.8 },
+    { "id": "prod-58796bea-001", "name": "Wireless Mouse", "category": "electronics", "price": 799.99, "stock": 50, "rating": 4.3 },
+    { "id": "prod-58796bea-002", "name": "Mechanical Keyboard", "category": "electronics", "price": 2499.99, "stock": 40, "rating": 4.6 },
+    { "id": "prod-58796bea-003", "name": "Gaming Headset", "category": "electronics", "price": 3499.99, "stock": 35, "rating": 4.7 },
+    { "id": "prod-58796bea-004", "name": "Bluetooth Speaker", "category": "electronics", "price": 2999.99, "stock": 25, "rating": 4.6 },
 
-    { "id": "prod-58796bea-004", "name": "Wireless Mouse", "category": "electronics", "price": 800.00, "stock": 50, "rating": 4.3 },
-    { "id": "prod-58796bea-005", "name": "Mechanical Keyboard", "category": "electronics", "price": 2500.00, "stock": 40, "rating": 4.6 },
-    { "id": "prod-58796bea-006", "name": "Gaming Headset", "category": "electronics", "price": 3500.00, "stock": 35, "rating": 4.7 },
-    { "id": "prod-58796bea-007", "name": "Smartphone Stand", "category": "electronics", "price": 400.00, "stock": 100, "rating": 4.2 },
-    { "id": "prod-58796bea-008", "name": "USB-C Charger", "category": "electronics", "price": 1300.00, "stock": 60, "rating": 4.4 },
-    { "id": "prod-58796bea-009", "name": "Bluetooth Speaker", "category": "electronics", "price": 3000.00, "stock": 25, "rating": 4.6 },
+    { "id": "prod-58796bea-005", "name": "Classic Cotton Shirt", "category": "clothing", "price": 1499.99, "stock": 30, "rating": 4.4 },
+    { "id": "prod-58796bea-006", "name": "Denim Jeans", "category": "clothing", "price": 1999.99, "stock": 25, "rating": 4.5 },
+    { "id": "prod-58796bea-007", "name": "Leather Jacket", "category": "clothing", "price": 2999.99, "stock": 15, "rating": 4.8 },
 
-    { "id": "prod-58796bea-010", "name": "Cooking Pan Set", "category": "home", "price": 4600.00, "stock": 20, "rating": 4.5 },
-    { "id": "prod-58796bea-011", "name": "Ceramic Vase", "category": "home", "price": 1000.00, "stock": 45, "rating": 4.3 },
-    { "id": "prod-58796bea-012", "name": "Wall Clock", "category": "home", "price": 1500.00, "stock": 30, "rating": 4.4 },
-    { "id": "prod-58796bea-013", "name": "LED Lamp", "category": "home", "price": 1900.00, "stock": 28, "rating": 4.6 },
+    { "id": "prod-58796bea-008", "name": "Cooking Pan Set", "category": "home", "price": 4599.99, "stock": 20, "rating": 4.5 },
+    { "id": "prod-58796bea-009", "name": "Ceramic Vase", "category": "home", "price": 999.99, "stock": 45, "rating": 4.3 },
+    { "id": "prod-58796bea-010", "name": "Wall Clock", "category": "home", "price": 1499.99, "stock": 30, "rating": 4.4 },
+    { "id": "prod-58796bea-011", "name": "LED Lamp", "category": "home", "price": 1899.99, "stock": 28, "rating": 4.6 },
 
-    { "id": "prod-58796bea-014", "name": "Yoga Mat", "category": "fitness", "price": 900.00, "stock": 55, "rating": 4.5 },
-    { "id": "prod-58796bea-015", "name": "Dumbbell Set", "category": "fitness", "price": 3000.00, "stock": 18, "rating": 4.7 },
-    { "id": "prod-58796bea-016", "name": "Treadmill", "category": "fitness", "price": 26000.00, "stock": 5, "rating": 4.8 },
-    { "id": "prod-58796bea-017", "name": "Skipping Rope", "category": "fitness", "price": 300.00, "stock": 80, "rating": 4.2 },
+    { "id": "prod-58796bea-012", "name": "Yoga Mat", "category": "fitness", "price": 899.99, "stock": 55, "rating": 4.5 },
+    { "id": "prod-58796bea-013", "name": "Dumbbell Set", "category": "fitness", "price": 2999.99, "stock": 18, "rating": 4.7 },
+    { "id": "prod-58796bea-014", "name": "Treadmill", "category": "fitness", "price": 25999.99, "stock": 5, "rating": 4.8 },
+    { "id": "prod-58796bea-015", "name": "Skipping Rope", "category": "fitness", "price": 299.99, "stock": 80, "rating": 4.2 },
 
-    { "id": "prod-58796bea-018", "name": "Fiction Novel", "category": "books", "price": 500.00, "stock": 60, "rating": 4.4 },
-    { "id": "prod-58796bea-019", "name": "Science Textbook", "category": "books", "price": 1300.00, "stock": 35, "rating": 4.6 },
-    { "id": "prod-58796bea-020", "name": "Notebook Pack", "category": "books", "price": 300.00, "stock": 120, "rating": 4.3 },
+    { "id": "prod-58796bea-016", "name": "Fiction Novel", "category": "books", "price": 499.99, "stock": 60, "rating": 4.4 },
+    { "id": "prod-58796bea-017", "name": "Science Textbook", "category": "books", "price": 1299.99, "stock": 35, "rating": 4.6 },
+    { "id": "prod-58796bea-018", "name": "Notebook Pack", "category": "books", "price": 299.99, "stock": 120, "rating": 4.3 },
 
-    { "id": "prod-58796bea-021", "name": "Action Figure", "category": "toys", "price": 700.00, "stock": 50, "rating": 4.5 },
-    { "id": "prod-58796bea-022", "name": "Board Game", "category": "toys", "price": 1500.00, "stock": 22, "rating": 4.6 },
-    { "id": "prod-58796bea-023", "name": "Puzzle Set", "category": "toys", "price": 500.00, "stock": 70, "rating": 4.4 },
-    { "id": "prod-58796bea-024", "name": "RC Car", "category": "toys", "price": 2500.00, "stock": 15, "rating": 4.7 }
+    { "id": "prod-58796bea-019", "name": "Action Figure", "category": "toys", "price": 699.99, "stock": 50, "rating": 4.5 },
+    { "id": "prod-58796bea-020", "name": "Board Game", "category": "toys", "price": 1499.99, "stock": 22, "rating": 4.6 },
+    { "id": "prod-58796bea-021", "name": "Puzzle Set", "category": "toys", "price": 499.99, "stock": 70, "rating": 4.4 },
+    { "id": "prod-58796bea-022", "name": "RC Car", "category": "toys", "price": 2499.99, "stock": 15, "rating": 4.7 },
+    { "id": "prod-58796bea-023", "name": "Smart Watch", "category": "electronics", "price": 4999.99, "stock": 12, "rating": 4.5 },
+    { "id": "prod-58796bea-024", "name": "Power Bank", "category": "electronics", "price": 1599.99, "stock": 40, "rating": 4.4 }
   ],
   "aggregations": {
     "clothing": {
